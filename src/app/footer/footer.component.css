@@ -1,0 +1,23 @@
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+ul {    
+    list-style: none;
+}
+#app-footer{
+    margin: 0;
+    padding: 60px;
+    align-items: start;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgba(237, 237, 237, 1);
+}
+#logo{
+    height: 44px;
+    width: 88px;
+}
+.title{
+    font-weight: bold;
+}

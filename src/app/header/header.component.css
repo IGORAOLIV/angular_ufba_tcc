@@ -1,0 +1,36 @@
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    display: flex;
+    list-style: none;
+
+}
+li {
+    align-items: center;
+    padding: 15px;    
+}
+.app-header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-side{
+    margin: 0;
+    padding: 0;
+}
+.header-icons{
+    max-width: 45px;
+    align-items: center;
+}
+.header-links{
+    align-items: center;
+    text-decoration: none;
+    }
+#header-logo{
+    padding: 15px 50px;
+}
