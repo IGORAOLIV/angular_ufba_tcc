@@ -1,0 +1,12 @@
+.title {
+  font-weight: bold;
+  font-size: 48px;
+  padding-bottom: 40px;
+}
+.best-camp {
+  margin: 50px;
+}
+#best-groups {
+  display: flex;
+  justify-content: space-around;
+}
