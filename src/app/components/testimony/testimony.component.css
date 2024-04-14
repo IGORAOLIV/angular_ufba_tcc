@@ -1,0 +1,14 @@
+.testi {
+  background-color: rgba(237, 237, 237, 1);
+  display: flex;
+  align-items: center;
+}
+#testimony {
+  padding: 30px 50px;
+  font-size: 26px;
+}
+#name {
+  padding: 0px 50px;
+  font-size: 18px;
+  font-weight: bold;
+}

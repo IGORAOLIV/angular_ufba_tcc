@@ -1,0 +1,15 @@
+.title {
+  font-weight: bold;
+  font-size: 48px;
+  padding-bottom: 40px;
+  text-decoration: none;
+  color: black;
+}
+.accessories-camp {
+  margin: 50px;
+}
+#accessories-groups {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
