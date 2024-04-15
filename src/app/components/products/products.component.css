@@ -1,0 +1,18 @@
+#title {
+  font-size: 48px;
+  font-weight: bold;
+  padding-top: 60px;
+  margin: 50px;
+  margin-bottom: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+ul li {
+  width: 25%;
+  box-sizing: border-box;
+  margin: 0;
+}
